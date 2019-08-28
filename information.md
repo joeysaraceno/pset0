@@ -4,11 +4,11 @@ Fill in your personal information and commit the changes with a meaningful commi
 
 * Name: Joey Saraceno
 
-* USC email address:
+* USC email address: jsaracen@usc.edu
 
-* PhD program:
+* PhD program: POIR 
 
-* Research interests (5 keywords):
+* Research interests (5 keywords): LGBT Political Economy & Representation 
 
-* What you had for lunch today:
+* What you had for lunch today:Sushi 
 
